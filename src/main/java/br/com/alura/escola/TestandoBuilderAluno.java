@@ -1,7 +1,7 @@
 package br.com.alura.escola;
 
-import br.com.alura.escola.dominio.aluno.Aluno;
-import br.com.alura.escola.dominio.aluno.AlunoBuilder;
+import br.com.alura.escola.academico.dominio.aluno.Aluno;
+import br.com.alura.escola.academico.dominio.aluno.AlunoBuilder;
 
 public class TestandoBuilderAluno {
 

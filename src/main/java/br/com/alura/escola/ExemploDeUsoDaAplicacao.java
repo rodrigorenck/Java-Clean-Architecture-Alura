@@ -1,10 +1,9 @@
 package br.com.alura.escola;
 
-import br.com.alura.escola.dominio.aluno.Aluno;
-import br.com.alura.escola.dominio.aluno.AlunoBuilder;
-import br.com.alura.escola.dominio.aluno.Email;
-import br.com.alura.escola.dominio.aluno.RepositorioDeAlunos;
-import br.com.alura.escola.infra.aluno.RepositorioDeAlunosEmMemoria;
+import br.com.alura.escola.academico.dominio.aluno.Aluno;
+import br.com.alura.escola.academico.infra.aluno.RepositorioDeAlunosEmMemoria;
+import br.com.alura.escola.academico.dominio.aluno.AlunoBuilder;
+import br.com.alura.escola.academico.dominio.aluno.RepositorioDeAlunos;
 
 import java.util.List;
 
